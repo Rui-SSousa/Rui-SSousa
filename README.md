@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rui-SSousa
 - 👀 I’m interested in ML/DP, Financial Markets, Cryptocurrency markets
 - 🌱 I’m currently learning/developing data science skills adopted to crypto markets
-- 💞️ I’m looking to collaborate on creating a bot to to trade crypto that runs on databricks 
+- 💞️ I’m looking to collaborate on creating a bot to trade crypto that runs on databricks 
 - 📫 How to reach me rssousa@netcabo.pt
 
 <!---
